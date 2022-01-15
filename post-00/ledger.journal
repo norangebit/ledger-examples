@@ -1,0 +1,37 @@
+2022-01-01 Opening Balances
+    assets:current:revolut          243 EUR
+    assets:current:amazon            25 EUR
+    assets:current:illimity         729 EUR
+    assets:current:cash              37 EUR
+    equity:open                   -1034 EUR
+
+2022-01-10 Esselunga
+    expenses:groceries              137 EUR
+    assets:current:illimity
+
+2022-01-15 Employer
+    assets:current:illimity         1500 EUR
+    income:salary                  -1500 EUR
+
+2022-01-15 Transfer
+    assets:current:revolut          500 EUR
+    assets:current:illimity
+
+2022-01-17 Airbnb
+    expenses:travel:accommodation         550 EUR
+    assets:current:revolut               -550 EUR
+
+2022-01-18 Amazon
+    expenses:travel:accessories            10 EUR  ; cuscino da viaggio
+    expenses:entertainment:books          100 EUR  ; kindle
+    assets:current:amazon                 -25 EUR
+    assets:current:revolut
+
+2022-01-23 Esselunga
+    expenses:groceries              83 EUR
+    assets:current:illimity
+
+2022-01-29 Pub
+    expenses:food:restaurants           47 EUR
+    assets:current:revolut
+
