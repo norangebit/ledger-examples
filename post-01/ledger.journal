@@ -1,0 +1,29 @@
+commodity EUR
+  default
+commodity VWCE
+
+2022-01-01 Opening Balances
+    assets:current:checking        2000 EUR
+    equity:open                   -2000 EUR
+
+2022-01-03 ETF All-World
+    assets:investments:pac        5 VWCE @ 95 EUR
+    assets:current:checking
+
+2022-02-01 ETF All-World
+    assets:investments:pac        5 VWCE @ 99 EUR
+    assets:current:checking
+
+2022-03-01 ETF All-World
+    assets:investments:pac        4 VWCE @ 102 EUR
+    assets:current:checking
+
+P 2022-03-04 VWCE 100 EUR
+
+2022-03-09 ETF All-Warld
+    assets:investments:pac          -5 VWCE {95 EUR} @ 101 EUR
+    assets:investments:pac          -5 VWCE {99 EUR} @ 101 EUR
+    assets:investments:pac         -4 VWCE {102 EUR} @ 101 EUR
+    assets:current:checking                           1414 EUR
+    income:gain
+
